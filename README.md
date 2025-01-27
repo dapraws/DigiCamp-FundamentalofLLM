@@ -1,4 +1,4 @@
-# Day 2: Datatest and Preparing Large Language Model
+# Day 2: Data and Preparing Large Language Model
 
 ## Overview
 
