@@ -4,7 +4,7 @@
 
 Pada Day 2, kita akan membahas dua modul penting dalam pengembangan Large Language Models (LLMs): **Data** dan **Tuning**. Data adalah bahan bakar utama untuk model, sementara tuning adalah kunci untuk meningkatkan performa model. Di sini, kita akan mempelajari cara mempersiapkan data yang sesuai dan melakukan **hyperparameter tuning**, **fine-tuning**, serta teknik optimasi lainnya untuk meningkatkan kinerja model.
 
-## Module 1: All About Data
+## All About Data
 
 ### 1. The Importance of Data
 
@@ -23,7 +23,7 @@ Dengan menyesuaikan data untuk tugas tertentu, model dapat belajar dengan lebih 
 
 Efisiensi data tidak hanya bermanfaat bagi model, tetapi juga untuk pengguna. Data yang tidak relevan atau terlalu banyak informasi yang tidak diperlukan dapat memperlambat proses pelatihan dan mengurangi performa model. Oleh karena itu, preprocessing data dan menggunakan data dengan ukuran yang tepat sangat penting agar model dapat bekerja lebih efisien dan cepat dalam memberikan hasil.
 
-## Module 2: All About Tuning
+## All About Tuning
 
 ### 1. Hyperparameter Tuning
 
@@ -64,3 +64,6 @@ Ada berbagai alat dan framework yang dapat digunakan untuk melakukan tuning dan 
 - **Data** sangat penting dalam pelatihan LLM. Mengkustomisasi dan mempersiapkan data yang baik sangat krusial untuk performa model yang optimal.
 - **Hyperparameter tuning** dan **fine-tuning** adalah kunci untuk meningkatkan akurasi model dalam tugas-tugas spesifik.
 - Berbagai **teknik optimasi** dan **tools** dapat membantu dalam mengoptimalkan model agar lebih efisien dan memberikan hasil yang lebih baik.
+
+***
+#DigiCamp #DigistarClub #LivinginTelkom #TelkomIndonesia #AI #LLM #Bootcamp
