@@ -67,3 +67,6 @@ LLMs dibangun dari beberapa lapisan (layers) self-attention dan feed-forward neu
 - Mereka dilatih menggunakan data yang sangat besar melalui proses **pretraining** dan **fine-tuning** untuk tugas spesifik.
 - **Transformer architecture** yang mendasari LLMs memberikan kemampuan luar biasa dalam menangkap hubungan antar kata dengan **attention** dan **self-attention**.
 - LLMs terus berkembang dan memainkan peran penting dalam berbagai aplikasi berbasis bahasa alami.
+
+***
+#DigiCamp #DigistarClub #LivinginTelkom #TelkomIndonesia #AI #LLM #Bootcamp
