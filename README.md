@@ -2,13 +2,13 @@
 
 ## Overview
 
-Pada Day 2, kita akan membahas dua modul penting dalam pengembangan Large Language Models (LLMs): **Data** dan **Tuning**. Data adalah bahan bakar utama untuk model, sementara tuning adalah kunci untuk meningkatkan performa model. Di sini, kita akan mempelajari cara mempersiapkan data yang sesuai dan melakukan **hyperparameter tuning**, **fine-tuning**, serta teknik optimasi lainnya untuk meningkatkan kinerja model.
+Pada Day 2, kita membahas dua modul penting dalam pengembangan Large Language Models (LLMs): **Data** dan **Tuning**. Data adalah bahan bakar utama untuk model, sementara tuning adalah kunci untuk meningkatkan performa model. Di sini, kita mempelajari cara mempersiapkan data yang sesuai dan melakukan **hyperparameter tuning**, **fine-tuning**, serta teknik optimasi lainnya untuk meningkatkan kinerja model.
 
 ## All About Data
 
 ### 1. The Importance of Data
 
-Data adalah elemen yang sangat penting dalam pelatihan model. Tanpa data yang tepat, model tidak dapat belajar dengan baik dan performanya akan terbatas. Sebagian besar model LLM membutuhkan dataset yang besar dan representatif agar dapat mengenali berbagai pola dalam bahasa.
+Data adalah elemen yang sangat penting dalam pelatihan model. Tanpa data yang tepat, model tidak dapat belajar dengan baik dan performanya terbatas. Sebagian besar model LLM membutuhkan dataset yang besar dan representatif agar dapat mengenali berbagai pola dalam bahasa.
 
 ### 2. Customizing Data for Your Needs
 
@@ -17,7 +17,7 @@ Tidak semua data cocok untuk setiap jenis tugas. Oleh karena itu, sangat penting
 - Untuk **text classification**, pastikan data Anda terlabel dengan jelas.
 - Untuk **translation tasks**, data perlu mencakup pasangan kalimat dalam dua bahasa.
 
-Dengan menyesuaikan data untuk tugas tertentu, model dapat belajar dengan lebih efektif, yang pada gilirannya akan meningkatkan akurasi model dalam menyelesaikan tugas yang diinginkan.
+Dengan menyesuaikan data untuk tugas tertentu, model dapat belajar dengan lebih efektif, yang pada gilirannya meningkatkan akurasi model dalam menyelesaikan tugas yang diinginkan.
 
 ### 3. Improving Efficiency for Both Model and User
 
