@@ -2,9 +2,9 @@
 
 ## Overview
 
-Pada Day 1, kita akan membahas pengantar tentang **Large Language Models (LLMs)**, mempelajari konsep dasar, serta mengenal arsitektur yang mendasari keberhasilan model ini. LLMs seperti GPT (Generative Pretrained Transformer) dan BERT (Bidirectional Encoder Representations from Transformers) telah menjadi batu loncatan dalam pengembangan aplikasi berbasis kecerdasan buatan untuk pemrosesan bahasa alami (Natural Language Processing/NLP).
+Pada Day 1, kita membahas pengantar tentang **Large Language Models (LLMs)**, mempelajari konsep dasar, serta mengenal arsitektur yang mendasari keberhasilan model ini. LLMs seperti GPT (Generative Pretrained Transformer) dan BERT (Bidirectional Encoder Representations from Transformers) telah menjadi batu loncatan dalam pengembangan aplikasi berbasis kecerdasan buatan untuk pemrosesan bahasa alami (Natural Language Processing/NLP).
 
-Pada sesi ini, kita akan mempelajari bagaimana LLMs dilatih, mengapa mereka begitu powerful, dan elemen-elemen teknis yang membentuk kemampuan mereka.
+Pada sesi ini, kita mempelajari bagaimana LLMs dilatih, mengapa mereka begitu powerful, dan elemen-elemen teknis yang membentuk kemampuan mereka.
 
 ## 1. Introduction to Large Language Models
 
